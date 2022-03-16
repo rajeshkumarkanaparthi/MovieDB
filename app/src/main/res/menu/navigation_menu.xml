@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/top_rated"
+        android:title="Top Rated movies" />
+
+    <item
+        android:id="@+id/upcoming_movies"
+        android:title="Upcoming Movies" />
+
+    <item
+        android:id="@+id/now_playing_movies"
+        android:title="Now Playing Movies" />
+
+    <item
+        android:id="@+id/popular_movies"
+        android:title="Popular Movies" />
+
+    <item
+        android:id="@+id/popular_tv_shows"
+        android:title="Popular TV shows" />
+
+    <item
+        android:id="@+id/top_rated_tv_shows"
+        android:title="Top rated TV shows" />
+
+    <item
+        android:id="@+id/on_the_air_tv_shows"
+        android:title="On the air TV shows" />
+
+    <item
+        android:id="@+id/airing_today_tv_shows"
+        android:title="Airing today TV shows" />
+
+    <item
+        android:id="@+id/popular_people"
+        android:title="Popular people" />
+</menu>
